@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu aliento de miel me tiene volando en la madrugada
+> Esa mirada tuya me deja el alma descontrolada
+> Bailando en lo oscuro, tú sabes que no me importa nada
+> Acércate un poco, que esta noche ya está coronada
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
